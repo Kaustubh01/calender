@@ -1,0 +1,22 @@
+table{
+    position: relative;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: 'Space Grotesk', sans-serif;
+}
+td, th{
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+th{
+    background-color: rgb(4, 138, 93);
+    color: aliceblue;
+    border: none;
+}
+.holiday{
+    color: rgb(250, 99, 29);
+}
+.month{
+    text-align: left;
+}
